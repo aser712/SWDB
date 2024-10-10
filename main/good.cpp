@@ -4,7 +4,7 @@ int main()
 {
 	printf("Hello World");
 
-	printf("GGG");
+	printf("Hesed real GGG");
 
 	return 0;
 }
